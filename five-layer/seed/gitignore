@@ -1,0 +1,18 @@
+# pi agent 目录的版本控制（五层体系起步版）：只管五层内容与自写的扩展/技能/脚本。
+# FIVE-LAYER §6「退休即删、历史由 git 承担」以此为前提。
+
+# 秘钥（绝不入库）
+auth.json
+models*.json
+
+# 运行时数据
+sessions/
+*.log
+
+# starter 同步状态与上游新版（本机事实，不入库）
+.five-layer/
+
+# 第三方安装物（有各自来源）
+npm/
+git/
+node_modules/

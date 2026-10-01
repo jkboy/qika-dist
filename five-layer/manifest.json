@@ -1,0 +1,415 @@
+{
+  "schema": 1,
+  "version": "0.2.143",
+  "components": [
+    {
+      "id": "experience-retrieve",
+      "kind": "dir",
+      "dest": "extensions/experience-retrieve",
+      "requires": [],
+      "files": {
+        "index.ts": "f48e778dc527511419a96fccc698f7801f0e1eb380c787f4649acb42558c1bc2",
+        "index-format.ts": "4db426e5207f3a8c84ad8791a793828493306aa3358901cae759f96e80a9d539",
+        "stats.mjs": "b1f91bde0089d6d3c93e41929c2f17e0a0d9511a0a0d6c33ef7a22eca927d173",
+        "README.md": "2eb7973bfe6919bca35845c4b6fd19784118879d889d323833409c3ee3bb9f32"
+      },
+      "legacy": {
+        "index-format.ts": [
+          "4db426e5207f3a8c84ad8791a793828493306aa3358901cae759f96e80a9d539"
+        ],
+        "index.ts": [
+          "0436461e82ea1d42ac7977dd14967b4c653c1c50f5d789de16685b534948fe0a",
+          "09d484919f025b13f672c04dbf2809f1e0ec32bbf46ad6adbeb09ef5ba1f338e",
+          "0b9cfce506a1c0e6f256dc22863d86593a26fa61a135b5ff6d4857935fcb9370",
+          "202be97a2ef185cdf2b10f365ff84e87d801e3447acca238402d6117a4f24822",
+          "398a4324ed2b4b73a3beac073cad748ecd57718980a3d249c31493514e8e3ca5",
+          "51d05c90b2b120ca19abd04bc52d5baa75d6f3ac079e919b3673052049327a31",
+          "69ec0833554e2d8459d45b7c9b926d87d70a6ce287b527d72380af64286f4c3a",
+          "99615689d6b577178a49caf088097a09a27ee0188100db9e439e4bb919f3218e",
+          "a1bb03e314ae685695815043aac99df7e8db8a8f01ffb9fb740a7be68145f403",
+          "aebeeb374f4c25b4ab89e4665e9a2655e2fb99a17087d2200b6454ee54a4d572",
+          "d927c04e8d035b85230fcf28143655e99a7e0d63b0c4c6d8edb394eac1807ce6",
+          "f48e778dc527511419a96fccc698f7801f0e1eb380c787f4649acb42558c1bc2"
+        ],
+        "stats.mjs": [
+          "6f67f1bdf1462e5e9b3d218c6a44f1c73dfedcbe6fbc0a20c74ecff8954af00a",
+          "71170a49da2a7532288a2e7972be86f67af62bc8392936ca399f176ba1cabea2",
+          "729b82e9b92704a522c8b191e0a6f17eb392ca0bc92460c1c0182ef9b18c3fd1",
+          "7413aa4c9ca059672bc34078e998085599ce2df497587c82f18045feb3427ba3",
+          "89b1d927a67b64cba60439cd473e4898ea852a89aaa024821c5aec79f19e0a41",
+          "9c85c81fa8f0657d7ed728d5af0ca8e94d8ef5cbbaadc81f89e88eb0fecfa615",
+          "b1f91bde0089d6d3c93e41929c2f17e0a0d9511a0a0d6c33ef7a22eca927d173",
+          "d733cfb416a0306471206002e26348c527862c67b2a8b5d902b232ecd732a9e1"
+        ],
+        "README.md": [
+          "035cf0ba215271c60d423e1afe669c8e2ffd332a30091a30285c15bfa78fc6f6",
+          "0a77c1b89c08f92fdac0fa30f5819f7b1ef7e63c5114554a1d4a0a1559c99350",
+          "13b6042c1209674cd65b1db66cf92beec1fcf9044e3398abbfc2262bf9c979ef",
+          "148f420f79ffbe2abac82342fe7829f136c7e6297e07106f22992d9e5bf56c26",
+          "2eb7973bfe6919bca35845c4b6fd19784118879d889d323833409c3ee3bb9f32",
+          "41a56676cfecc8efce799e5866d706baa965e7410b23957b9acd7a6f5142d07a",
+          "7eddfb8e430dd605e6d7af2f42e1b63622effdbace1cdfc9e2ea7955c24830f2",
+          "a6164d4b536f82114255768e28f2e1d092a88b45c4f5ee76d669746dc0892d5c",
+          "a9fd0d9c7c112ca67696739cb340c26acab3840150d4a69a0edcac3397424ed3",
+          "b2c8fd3b4a26219eb859cdb87ef2eb86336c8d5eee3bc25ed4e93723c724b8fd",
+          "d1872028152be2abe0ca50a71acbe08507de3db0c31ba89ab9fe673a696b26ad",
+          "d3e5fbb038aab52cf7eb178606af7c1aa1dfc4cf4f5c13222d3db64fb841b3f2"
+        ]
+      }
+    },
+    {
+      "id": "knowledge-pointer",
+      "kind": "dir",
+      "dest": "extensions/knowledge-pointer",
+      "requires": [],
+      "files": {
+        "index.ts": "ba8561fa563c21bf79dc54ac4f8a96fc44a63ff8bc64cfe0be985d4792d2b712",
+        "index-format.ts": "b7e8c76791e9826a588cbbb37cdac18ba9d512ffd78535131d6afa64e1a4257a",
+        "stats.mjs": "32b66fea423a266f4cfaa4442b76f415ea69e93aebc535bfcdbc2e6771195604",
+        "README.md": "6fd6603fa007f192ccb6d38e9e52abb8684a4b785e645609dd47111e423bec32"
+      },
+      "legacy": {
+        "index-format.ts": [
+          "b7e8c76791e9826a588cbbb37cdac18ba9d512ffd78535131d6afa64e1a4257a"
+        ],
+        "index.ts": [
+          "159db5794dd281aa506c93041f41443a7416d719d19a952cebd9d8e0f112e102",
+          "63751c8d6655075da0d306a2a4988ce18b7a2ae81e351ec66a8d5419105288ee",
+          "64729096c6f667d568a0bd1bf191c806aa78e86da5974d8e25b32a605720e685",
+          "7df20298741518f687fa553b09cbc4e98bb5bf9e6bb194bfc0d7b313199ad98e",
+          "ba8561fa563c21bf79dc54ac4f8a96fc44a63ff8bc64cfe0be985d4792d2b712"
+        ],
+        "README.md": [
+          "1288aadd15e4813c365a180cf42546a42b0f594ef0d5594e5bd570d9bfe6ff81",
+          "1e1a3ccf0457f77c9e42844bbd345ce1c2bc769efc9838f9cb0702a3c45458e7",
+          "6fd6603fa007f192ccb6d38e9e52abb8684a4b785e645609dd47111e423bec32"
+        ],
+        "stats.mjs": [
+          "0b014a6d8d73bf452b1ff7adca10382f88d7a164b27516fabc4a01d958942f95",
+          "32b66fea423a266f4cfaa4442b76f415ea69e93aebc535bfcdbc2e6771195604",
+          "6d4b863d0bf3fcc6cfd113971866e61ccba095a778c22c402d3f548e449783ce",
+          "74ee24f21e1c3154886566ac3af251b4cb01cfccdfbd2d74609efb098aca8558"
+        ]
+      }
+    },
+    {
+      "id": "five-layer",
+      "kind": "dir",
+      "dest": "extensions/five-layer",
+      "requires": [
+        "evidence-contract"
+      ],
+      "files": {
+        "index.ts": "db44d990b43e91ed4d1bdd2e07fed3f74aaa28bce59d541b7d5300c44735e770",
+        "types.ts": "88191ff166a261f94b90bc0ff6676c8bea6e49e8074bed652acd7f204bc891ba",
+        "README.md": "d1c76263fcd91edfcb3c2a0d1c4e0255d42f0484694fb4ed95b285ccb7410155",
+        "rules/index.ts": "1caf353a2b847010d0fea785a7ec790c1c6bebf061f4ce42d653c70f306d42e3",
+        "rules/current-date.ts": "34ac773f757284dfb05e935dc631e84a962171966cf77d47abdf39fd28f03d52",
+        "rules/duplicate-search.ts": "ce784dbd963afbb2f2fe3d3f7c98ca37462f15ef849bc8742acca7df39e5d22a",
+        "rules/evidence-honesty.ts": "b66aa7987594222043ad504fd5169733ef75cb0b3f8b7adc50c891340a9c7a01",
+        "rules/admission-current-date.md": "21b369c4da593add8d8f76483b1a7827390b41198ecb8544e44413e983e93a42",
+        "rules/admission-duplicate-search.md": "d8d5b277ec0ead57bebe133f3f07c5215f6dde9536670146b234b9d1000de7e0",
+        "rules/admission-evidence-honesty.md": "98121e8031f313183a42a165bb281d80c38989c0a2abcc58641e861d942d7b69",
+        "templates/admission-card.md": "be2653e819ca44a035b287b9ea6aad3844d8a9128a37629e3f253452b4dce4c8",
+        "templates/prompt-context-rule.ts.txt": "393f9d620a1e2ae9306d4876ca8e7fde4893d0e0c3160f47d54b82eb859527a7",
+        "templates/tool-call-rule.ts.txt": "91ce40126116d3f30a458e8af337cea09f0238f90a5125e7c335ea5afb3df629"
+      },
+      "legacy": {
+        "index.ts": [
+          "01037241082045d69d8d0e18f9433d7243c65ecb21f206af10e323901d41e973",
+          "5837a93bea9fb9b0524fb797b1428170dd8b0cc76bedca16cfd9c13a226907aa",
+          "db44d990b43e91ed4d1bdd2e07fed3f74aaa28bce59d541b7d5300c44735e770"
+        ],
+        "rules/evidence-honesty.ts": [
+          "09bd5bb3f9ff0b9f24aa0aa2f42854544d40b7a47a584d6ca3dacccf44100507",
+          "0af7147d3e7173c54262222df3d510561a7cdd7a09b1cfab33242723e5722a12",
+          "1bba38d072f71e97a68ed23b0af751512e15b06c7a7996697b8149fd157c8c0f",
+          "4d41f734c071a0abf8ec10265786e267c1f48bd3653f4d76d1d4660d85457ccb",
+          "520ea216269111c61c2e4aef3c5f3dfa5537a0838a60074f549620215e89cd7b",
+          "7f79fdd527e97768bcec722a5818e5af49d0420e070e141a4aee6ba84451c4ab",
+          "9ba38240ddb9f37c1f594f93c1a3b02564d80acfe36a39c8c7f4c30bd8839a6e",
+          "9f01bd6d148d6b9817a78b38c352a0477aa00b762ea1dd977e0765126c063617",
+          "b66aa7987594222043ad504fd5169733ef75cb0b3f8b7adc50c891340a9c7a01",
+          "e92fbe05a92c8b26dbb68fae59775f6b167d6674f2dee015d40d0fbed22dc33f"
+        ],
+        "rules/admission-current-date.md": [
+          "21b369c4da593add8d8f76483b1a7827390b41198ecb8544e44413e983e93a42",
+          "90679c91a46cb326bb19e2805ad53ba61be089b0c1dc299f069fab1a94b92244",
+          "b35c9ec5a6820443725a2f80dc2e0d96a5f4b585773357c54b471183da12b0f0",
+          "ce2fdd2e60168611cd1922cbdfef261db71951b8cff22d1eefc8d13c9ab7f090"
+        ],
+        "rules/current-date.ts": [
+          "34ac773f757284dfb05e935dc631e84a962171966cf77d47abdf39fd28f03d52",
+          "87782fb5cee4c23a08c8e577370c989f2aa30c247a9633df200af857d9b7fbf5"
+        ],
+        "README.md": [
+          "03ee49b6e3cd383d0b9806ec5f2f17b5feb10351d4d481fc7312332c9ba99f5b",
+          "92d413fdf41f2e6934026eaf2437359151b394d3fc4644a92b99e5f6bb27de8e",
+          "d1c76263fcd91edfcb3c2a0d1c4e0255d42f0484694fb4ed95b285ccb7410155"
+        ],
+        "rules/admission-duplicate-search.md": [
+          "afb206b2ff8e81e118056bf079b3c38f33ecd38952ca5357ef11f1596cefe5c4",
+          "d8d5b277ec0ead57bebe133f3f07c5215f6dde9536670146b234b9d1000de7e0"
+        ],
+        "rules/duplicate-search.ts": [
+          "c47a29305c23937b321844b252341d75eeb6798b4dd74b1360ed4261d017870f",
+          "ce784dbd963afbb2f2fe3d3f7c98ca37462f15ef849bc8742acca7df39e5d22a"
+        ],
+        "rules/index.ts": [
+          "066c784bc4be2e54cabb583729d6d1908ab166daf571913a00017dee5a64366e",
+          "1caf353a2b847010d0fea785a7ec790c1c6bebf061f4ce42d653c70f306d42e3",
+          "784caec70f3a82cdb873449015164ba8a4ed49db07725b77cee490868c388e00"
+        ],
+        "rules/admission-evidence-honesty.md": [
+          "28c39556ac54777d2b80045cbc0726b3289e5b3628763853b49df24e4d6a4940",
+          "425a0c79e00887ade8b6042fb4c552d591cec924c65696037c84d506a6788a20",
+          "8437e927a16d123836aed9780c8fcd5959d27f0292c7822a960c331af41e29de",
+          "98121e8031f313183a42a165bb281d80c38989c0a2abcc58641e861d942d7b69",
+          "b502c4c2fdb9cc8c8914d584276e9704a3c4bde9e2cf1089ede1bfee8838159c",
+          "e035a38c96d879b1a842ecb1ba47e7856f62837411f3e903d7fdf8e4bc710f71"
+        ],
+        "templates/admission-card.md": [
+          "be2653e819ca44a035b287b9ea6aad3844d8a9128a37629e3f253452b4dce4c8",
+          "e236cf242ad742795dfd76e1a8bd66f4cca734ec5e645682d7d792ebcf793fed"
+        ],
+        "templates/prompt-context-rule.ts.txt": [
+          "393f9d620a1e2ae9306d4876ca8e7fde4893d0e0c3160f47d54b82eb859527a7"
+        ],
+        "templates/tool-call-rule.ts.txt": [
+          "91ce40126116d3f30a458e8af337cea09f0238f90a5125e7c335ea5afb3df629"
+        ],
+        "types.ts": [
+          "0e42ca7c1309d4f0854aecc23c68948e821f522caeb45e5151f39056a4e9dd63",
+          "88191ff166a261f94b90bc0ff6676c8bea6e49e8074bed652acd7f204bc891ba"
+        ]
+      }
+    },
+    {
+      "id": "task-continuity",
+      "kind": "dir",
+      "dest": "extensions/task-continuity",
+      "requires": [
+        "task-tracker"
+      ],
+      "files": {
+        "index.ts": "22b033465c08ea4fac9fcce5b92a3135d814c8075be8a6a0078ddffc9e85e702",
+        "task-state.ts": "4a251bebf2b41433d99f8f6093a93dcf8a76882a0ae557e4d882c49440bd62e3",
+        "README.md": "46bd9035b1719c89bc8976e1aabcb8062a71cc5631ac777142ae0a64ebaf590d"
+      },
+      "legacy": {
+        "README.md": [
+          "46bd9035b1719c89bc8976e1aabcb8062a71cc5631ac777142ae0a64ebaf590d",
+          "c1c5e3bbe838e8a01ccaca366e32ddd5aa30dbc9f89f8c90321bc09220250aec",
+          "dbebdea99db874353487eae8c48e438fe4ae95ef9add17ffc8195424ae7af094",
+          "e6e7a9ab7ba6983038dd77749cc31394d3bca414d96d99d135483c713df11733"
+        ],
+        "index.ts": [
+          "22b033465c08ea4fac9fcce5b92a3135d814c8075be8a6a0078ddffc9e85e702",
+          "6fc769b3f94f6938b1c2c96ce70aaab46448b3dce29c8d11176b48aa04c3afd1",
+          "ae0073d2c0f3cba0eda3363ec1836bcddb8097304aa8cf78fcf30db978a4ca87",
+          "af52cb33d25f0306b8f155636729e4db317ffa6786ebeae047277274a7f863ef"
+        ],
+        "task-state.ts": [
+          "4a251bebf2b41433d99f8f6093a93dcf8a76882a0ae557e4d882c49440bd62e3",
+          "ab66fc0dea2dcecae3c3168c82f72a146d4c835109e7b255d1f9e8d9432bca17",
+          "ec42bf215ed52e42db9a67409d358877c3d138b23ada6f1ea6a5f31bffb61d06"
+        ]
+      }
+    },
+    {
+      "id": "five-layer-governance",
+      "kind": "dir",
+      "dest": "skills/five-layer-governance",
+      "requires": [
+        "experience-retrieve"
+      ],
+      "files": {
+        "SKILL.md": "1d05fc007dfd103be095fe762ba082c3e17d9648719d436f74e4d3c95480d8ec",
+        "scripts/exit-check.mjs": "c92a6d31577fde224fcf642d1c2ea087a364fd65529c99158d6356f9af6c974a",
+        "scripts/skill-trigger-eval.mjs": "294b920667def97ccc194c66e2168334102b905d00174ae0234818efa1ed6680"
+      },
+      "legacy": {
+        "SKILL.md": [
+          "1d05fc007dfd103be095fe762ba082c3e17d9648719d436f74e4d3c95480d8ec",
+          "46643bb360b7defa0831ab16ee1aa6a0237bf5bc237535d3ea8e0984b9bf4f52",
+          "8b02595a2117bf43e6f4b344da05f37e8ca3ff718e77a6ec6156df2080502250",
+          "f79f69406d882ab87183655581adc3c99877acfcd5f41255d19436af84656444"
+        ],
+        "scripts/skill-trigger-eval.mjs": [
+          "294b920667def97ccc194c66e2168334102b905d00174ae0234818efa1ed6680",
+          "449aa04ab9414b02da261a9630ab41133bd83ab1b64e76807cee22d214d94776"
+        ],
+        "scripts/exit-check.mjs": [
+          "c92a6d31577fde224fcf642d1c2ea087a364fd65529c99158d6356f9af6c974a"
+        ]
+      }
+    },
+    {
+      "id": "knowledge-sediment",
+      "kind": "dir",
+      "dest": "skills/knowledge-sediment",
+      "requires": [],
+      "files": {
+        "SKILL.md": "fb5fdd771a1202963e078bbd966b07df48f97a0066a194953edfd7244adeb06f"
+      },
+      "legacy": {
+        "SKILL.md": [
+          "098a3164da58a5b762d87406e981fa6cbd92db4b4acda32101828a21008d216b",
+          "fb5fdd771a1202963e078bbd966b07df48f97a0066a194953edfd7244adeb06f"
+        ]
+      }
+    },
+    {
+      "id": "task-tracker",
+      "kind": "dir",
+      "dest": "skills/task-tracker",
+      "requires": [],
+      "files": {
+        "SKILL.md": "7edc2c21aa54f4ec7a654469fb4ea9433bbbb3e8364e1393561d517fac5a569a"
+      },
+      "legacy": {
+        "SKILL.md": [
+          "1ae80cd1c014d6fb66d9df225d0cbaea708eafb986caecdd0922643e9f2edd66",
+          "241e5e0daee8cd6578e535ccb357c7676bbc3f90a7c519dcaed76e685e2d3847",
+          "5a10768f18bda3c26d63010721861104629e11bd96544a62ef1bdf4c4984fec9",
+          "5b22c3a0de8dd411ba5f704e4422106c82c4dd8fa3ef906dc98a4eaf5482f73a",
+          "5ed779fe71293b62e3f97be00638590014492045f8e569a5c9e59f9dd48a0f46",
+          "7edc2c21aa54f4ec7a654469fb4ea9433bbbb3e8364e1393561d517fac5a569a",
+          "88b2858fe40ae12f2550418e7e1cb928c8082d3b27fe01c321c28c17f68b5954",
+          "898f5fa160d074ae17e018a2d9bbfc41fe9252c0bf35116ddccfc40f391985c6",
+          "b3468f5e19e319bbc7b55636465b1228d2e1f2a96f87f8e1046b29704f5edecd",
+          "e753018871721e0eb482fb842aa88c7a8d79310e5cbc17615e8963c4d94e40aa"
+        ]
+      }
+    },
+    {
+      "id": "evidence-contract",
+      "kind": "dir",
+      "dest": "skills/evidence-contract",
+      "requires": [],
+      "files": {
+        "SKILL.md": "29df38a52e6c05155ae6657640fa2d924360ca340bbff1f7e8ecdf4858d91058",
+        "scripts/validate-evidence.mjs": "119807f070d9a94a21897a678026cdf5fb8617e914ac29cb48f19fee819d4229",
+        "references/CONTRACT.md": "60cb9048a38d232fa1c56e08529d7ad0e4947f93f8dfd712e5d5426d80e1c395",
+        "references/manifest.example.json": "0116c2f8f794b98ddc01fe3aa6344b1a551bb84a9e26b61786e8521e8da41daa"
+      },
+      "legacy": {
+        "SKILL.md": [
+          "29df38a52e6c05155ae6657640fa2d924360ca340bbff1f7e8ecdf4858d91058",
+          "52e228977ebf775f26765ee7764e7d40e184b5428cc81e0a524d63aea97dfa3d",
+          "8cf4eb6fbd53d2e6acffd9ff134ea891d73f75aece557121e27ac8dec5c9a4cf",
+          "97c55eda9cf4ac06b1a19c86a92d5a53cb9ac1a17ce991e519a1fb63e022c02f",
+          "9eaa2a395b9e4086a0fd8f5de62813e6b184e8f5befa0485fa6272d734ac3dd6",
+          "da01a6c32ca6b1ef35332e123b4cf484dd0cba742728b4afe149168d4fe1687a",
+          "ff803eb00ee28ec198752d2fc7b284c97192edc8af592ecef96c3ef639fe317f"
+        ],
+        "references/CONTRACT.md": [
+          "5eb84f11ca231788004e782763f09727149bd66a15ed623ffc539962d2fac0f7",
+          "60cb9048a38d232fa1c56e08529d7ad0e4947f93f8dfd712e5d5426d80e1c395",
+          "7b3d3117ad9f0cc9691fc2c7dd7a64e3fc3f86345370bfb58ffecf84d5e74549"
+        ],
+        "references/manifest.example.json": [
+          "0116c2f8f794b98ddc01fe3aa6344b1a551bb84a9e26b61786e8521e8da41daa"
+        ],
+        "scripts/validate-evidence.mjs": [
+          "0b4538949baca8b0b209aa9b18b53bacc53d99a94556a44bc86c41275fa8f9a6",
+          "119807f070d9a94a21897a678026cdf5fb8617e914ac29cb48f19fee819d4229",
+          "5489f231fa73f38fbd9a7d3c809e7d9e518e61879cd80c32ba9c8858b68ed82b",
+          "623f48b8b658d400952239635efee73936dd97edd3c95d01bc604fa6d9b4b8e1",
+          "e0f5a022f2c158a009673eb7a14d68618f4504ea6f941638d71b2e2b06fcc44b"
+        ]
+      }
+    },
+    {
+      "id": "doctor",
+      "kind": "dir",
+      "dest": "skills/doctor",
+      "requires": [],
+      "files": {
+        "SKILL.md": "c0b0cdf346fb1da85409483f73a9a10f6a7e3a3730a0562232bb3e46aab5ba6d"
+      },
+      "legacy": {
+        "SKILL.md": [
+          "00545b7d96f962578c38a90bf97cd6bc64c193992b78a6fad64740ba2332df8c",
+          "018c08f65668b65091d7cfe3caf42f0f3840c6a26048fd2886cc0777876be0a4",
+          "041df719d04e4ecffb6575cb8a5632911243ec38fafedccc3b3d22ca54a22014",
+          "1b1be1b9e2fe0e25ec53cf1e24c4b1a4f74900a5c0d8f0e23ee071b074326197",
+          "34278f47d2ad7ad9b726b165f9e098e95bd57fb5aa338e42bb15a6df7e90ce25",
+          "5d2b792f183ed9e0ab5ea8b5e4b464012d154ceb53fb0bb04fe114509eed5a4a",
+          "6d9db4f1e1aa6d3fba7d35a8dc10049a33cde4d3d9736ae97d1a208f7459afa9",
+          "708f762c35a9a6e1e3b4615092fdaed71950bbe55712983ea648dac5abdd4cae",
+          "7f0ffcbfcc9018b5ddce9edc704e14d1e0d13a4687c63f6c175253c8d4c74b73",
+          "8127a93345c5b3908e118041f98075129b397ebc552f52f5df300e76f6643858",
+          "840dc385e020f87bf6fad69b685205b554f46dbca0a224d294fe28be1674add3",
+          "8650d94dc684f89c1da4d2885793e00e329eb43d3b721ed71614cf0b79b064c1",
+          "9d50b6a67e8f3f654da14c70f0041ff4e398c1e6e6a8a66bae0ec85b6fe0dc21",
+          "c0b0cdf346fb1da85409483f73a9a10f6a7e3a3730a0562232bb3e46aab5ba6d",
+          "c7666311da6095d966b725df956e8b693dc9d9ac0c9f7fa7290cb2394e3c96e6"
+        ]
+      }
+    },
+    {
+      "id": "governance-docs",
+      "kind": "files",
+      "dest": "",
+      "requires": [],
+      "files": {
+        "FIVE-LAYER.md": "74067b236a1f2ffc7f6ae60403bb48ee259352b6d7bd38be6194492462ddef89",
+        "experience/README.md": "ae0b0ad81016ddd729ca93817547ef0e1a121ff6240c8e72e5052ebff03fd79c",
+        "experience/templates/entry.md": "45e15fb258286b77b444680db8596bf4c93b1beb35f5e9b8c0d9aaa577406e07",
+        "knowledge/templates/entry.md": "bb7289e5c187bde75d036b99b1d6d7bcb7de9c99b41b4f8ad873a1d6c8493575"
+      },
+      "legacy": {
+        "FIVE-LAYER.md": [
+          "0cda2784f5a301c7b4c2ed2b8de021f87a7f482f3e0d07ddee8e822b10a5940f",
+          "74067b236a1f2ffc7f6ae60403bb48ee259352b6d7bd38be6194492462ddef89",
+          "a368fe2d635a7788d0c2e47ec4daf267fed1781ee92243fe838e056fa6868938",
+          "c5556b029a20dbc316d9d066465cb97f3832b3eee76027200d100084e07f2782"
+        ],
+        "experience/templates/entry.md": [
+          "45e15fb258286b77b444680db8596bf4c93b1beb35f5e9b8c0d9aaa577406e07",
+          "492063c9b5afa93adb37eb223887f0b82736880fbee53d06f6864808c342a004"
+        ],
+        "knowledge/templates/entry.md": [
+          "6c326f4398c5186909a1c46e43f1f5e62435e6bafd504f9a58459e01d3ae7e0f",
+          "bb7289e5c187bde75d036b99b1d6d7bcb7de9c99b41b4f8ad873a1d6c8493575"
+        ],
+        "experience/README.md": [
+          "ae0b0ad81016ddd729ca93817547ef0e1a121ff6240c8e72e5052ebff03fd79c"
+        ]
+      }
+    }
+  ],
+  "seeds": [
+    {
+      "src": "seed/AGENTS.md",
+      "dest": "AGENTS.md"
+    },
+    {
+      "src": "seed/experience/INDEX.md",
+      "dest": "experience/INDEX.md"
+    },
+    {
+      "src": "seed/knowledge/index.md",
+      "dest": "knowledge/index.md"
+    },
+    {
+      "src": "seed/knowledge/governance-decisions.md",
+      "dest": "knowledge/governance-decisions.md"
+    },
+    {
+      "src": "seed/extensions/README.md",
+      "dest": "extensions/README.md"
+    },
+    {
+      "src": "seed/gitignore",
+      "dest": ".gitignore"
+    }
+  ],
+  "optional": [
+    {
+      "src": "optional/先规划后编辑.md",
+      "dest": ".five-layer/optional/先规划后编辑.md"
+    }
+  ]
+}
