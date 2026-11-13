@@ -1,0 +1,17 @@
+import type { ToolCallRule } from "../types";
+
+export const exampleRule: ToolCallRule = {
+	id: "replace-with-unique-id",
+	description: "Describe the observed failure and deterministic signal",
+	enabled: true,
+	mode: "warn",
+	onError: "allow",
+	check({ toolName, input, cwd }) {
+		// Only inspect deterministic fields. Return undefined to allow.
+		// Return a concise reason to warn or block.
+		void toolName;
+		void input;
+		void cwd;
+		return undefined;
+	},
+};

@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0",
+  "task": {
+    "question": "Which release is suitable for the stated deployment?",
+    "as_of": "2026-08-03",
+    "risk": "standard"
+  },
+  "entities": [
+    {
+      "id": "E-target",
+      "name": "Example Model 0731",
+      "kind": "model",
+      "status": "verified",
+      "required_identity_fields": [
+        "canonical_id",
+        "owner",
+        "release_date",
+        "revision"
+      ],
+      "identity": {
+        "canonical_id": "owner/example-model-0731",
+        "owner": "owner",
+        "release_date": "2026-07-31",
+        "revision": "0123456789abcdef"
+      },
+      "evidence_ids": ["V-official"]
+    }
+  ],
+  "relations": [],
+  "claims": [
+    {
+      "id": "C-identity",
+      "text": "The target release is owned by the stated publisher.",
+      "kind": "positive",
+      "critical": true,
+      "status": "verified",
+      "entity_ids": ["E-target"],
+      "depends_on": [],
+      "evidence_ids": ["V-official"],
+      "min_independent_lineages": 1
+    }
+  ],
+  "evidence": [
+    {
+      "id": "V-official",
+      "url": "https://example.com/api/models/owner/example-model-0731",
+      "title": "Official model metadata",
+      "source_type": "primary",
+      "lineage_group": "official-owner",
+      "retrieved_at": "2026-08-03",
+      "immutable_ref": "0123456789abcdef",
+      "claim_links": [
+        {"claim_id": "C-identity", "stance": "supports"}
+      ],
+      "scope": {
+        "entity_ids": ["E-target"],
+        "version": "0731",
+        "time": "2026-08-03"
+      },
+      "locator": "API fields: id, sha, createdAt",
+      "excerpt_or_digest": "id=owner/example-model-0731; sha=0123456789abcdef"
+    }
+  ],
+  "negative_searches": [],
+  "reviews": [],
+  "decision": {
+    "status": "publishable",
+    "critical_claim_ids": ["C-identity"],
+    "summary": "The exact target identity is verified."
+  }
+}
