@@ -1,0 +1,13 @@
+import type { PromptContextRule } from "../types";
+
+export const examplePromptRule: PromptContextRule = {
+	id: "replace-with-unique-id",
+	description: "Describe the deterministic recall condition",
+	enabled: true,
+	buildContext({ prompt, cwd }) {
+		// Match a narrow, deterministic signal and return only needed context.
+		void prompt;
+		void cwd;
+		return undefined;
+	},
+};
